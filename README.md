@@ -4,7 +4,7 @@
 
 <p>I have an "accessibility-first" approach to development, striving to ensure our products are accessible to as many people as possible - regardless of their access needs.</p>
 
-<p>I have used many different technologies and been involved in all stages of the SDLC. I thoroughly enjoy learning new things, exploring new pathways and expanding my knowledge in the digital space. This has enabled me to pick up a strong knowledge of Python (Wagtail and Flask), Git, SQL, front-end technologies (HTML, CSS/SASS, JS), and have worked on/managed sites on hosting platforms such as Platform.sh, Dreamhost and AWS.</p>
+<p>I have used many different technologies and been involved in all stages of the SDLC. I thoroughly enjoy learning new things, exploring new pathways and expanding my knowledge in the digital space. This has enabled me to pick up a strong knowledge of Python (Wagtail and Flask), Git, SQL, front-end technologies (HTML, CSS/SASS, JS), and have worked on/managed sites on hosting platforms such as Platform.sh, Hostinger and AWS.</p>
 
 <h3 align="center">Connect with me!</h3>
 <p align="center">
